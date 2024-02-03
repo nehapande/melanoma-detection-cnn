@@ -35,5 +35,3 @@
 - This project was inspired by a case study from the Executive PG Programm in Machine Learning by IIIT Bengaluru
 
 
-## Contact
-Created by [@rahulkpareek] - feel free to contact me!
